@@ -3,7 +3,7 @@ a = 10;
 
 console.log(a);
 
-let b: number = 5;
+let b: number = 5;*
 
 console.log(b);
 
